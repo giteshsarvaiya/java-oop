@@ -18,5 +18,5 @@ All the resources to learn JavaOOP at one place 📒💪
 To show love to this repository , kindly, Star⭐ it and share it as much as possible to the ones who need these resources.
 Thankyou.
 
-# Resources by 🙂:
+# Resources by 🔥:
 The notes and codes are all provided by [Dr. Partha Roy](https://github.com/patsroy). All thanks goes to him for providing such good notes.
